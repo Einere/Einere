@@ -28,13 +28,6 @@
 | [tomato-mien](https://github.com/Einere/tomato-mien) | 규칙 기반 알람 데스크탑 앱 | React, Electron     |
 | [homepage](https://github.com/Einere/homepage)       | 개인 블로그          | Next.js, Notion API |
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Einere&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einere&layout=compact&theme=default&hide_border=true" height="150" alt="Most Used Languages" />
-</p>
-
 ## Links
 
 - [Email](mailto:kjwsx23@einere.me)

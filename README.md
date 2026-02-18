@@ -22,11 +22,12 @@
 
 ## Featured Projects
 
-| 프로젝트                                                 | 설명              | 기술 스택               |
-|------------------------------------------------------|-----------------|---------------------|
-| [sogwaja](https://github.com/Einere/sogwaja)         | 실험 기반 조리법 웹 앱   | Supabase, Next.js   |
-| [tomato-mien](https://github.com/Einere/tomato-mien) | 규칙 기반 알람 데스크탑 앱 | React, Electron     |
-| [homepage](https://github.com/Einere/homepage)       | 개인 블로그          | Next.js, Notion API |
+| 프로젝트                                                      | 설명                         | 기술 스택               |
+|-------------------------------------------------------------|----------------------------|---------------------|
+| [sogwaja](https://github.com/Einere/sogwaja)                | 실험 기반 조리법 웹 앱           | Supabase, Next.js   |
+| [tomato-mien](https://github.com/Einere/tomato-mien)        | 규칙 기반 알람 데스크탑 앱        | React, Electron     |
+| [homepage](https://github.com/Einere/homepage)              | 개인 블로그                   | Next.js, Notion API |
+| [ccusage-graph](https://github.com/Einere/ccusage-graph)    | 클로드 코드 토큰 사용량 시각화 CLI | Node.js             |
 
 ## Links
 

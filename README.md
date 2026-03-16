@@ -22,12 +22,19 @@
 
 ## Featured Projects
 
-| 프로젝트                                                      | 설명                         | 기술 스택               |
-|-------------------------------------------------------------|----------------------------|---------------------|
-| [sogwaja](https://github.com/Einere/sogwaja)                | 실험 기반 조리법 웹 앱           | Supabase, Next.js   |
-| [tomato-mien](https://github.com/Einere/tomato-mien)        | 규칙 기반 알람 데스크탑 앱        | React, Electron     |
-| [homepage](https://github.com/Einere/homepage)              | 개인 블로그                   | Next.js, Notion API |
-| [ccusage-graph](https://github.com/Einere/ccusage-graph)    | 클로드 코드 토큰 사용량 시각화 CLI | Node.js             |
+| 프로젝트                                                      | 설명              | 기술 스택               |
+|-------------------------------------------------------------|-----------------|---------------------|
+| [tomato-mien](https://github.com/Einere/tomato-mien)        | 규칙 기반 알림 데스크탑 앱 | React, Electron     |
+| [homepage](https://github.com/Einere/homepage)              | 개인 블로그          | Next.js, Notion API |
+
+
+## Tools
+
+| 프로젝트                                                 | 설명                    | 기술 스택      |
+|------------------------------------------------------|-----------------------|------------|
+| [figma-cdp-skill](https://github.com/Einere/figma-cdp-skill) | Figma REST API 기반 스킬  | Node.js    |
+| [ccusage-graph](https://github.com/Einere/ccusage-graph)    | 클로드 코드 토큰 사용량 시각화 CLI | Node.js    |
+| [common-utils](https://github.com/Einere/common-utils) | 함수형 패러다임 유틸리티 함수 모음   | Typescript |
 
 ## Links
 

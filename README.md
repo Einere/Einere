@@ -22,10 +22,11 @@
 
 ## Featured Projects
 
-| 프로젝트                                                      | 설명              | 기술 스택               |
-|-------------------------------------------------------------|-----------------|---------------------|
-| [tomato-mien](https://github.com/Einere/tomato-mien)        | 규칙 기반 알림 데스크탑 앱 | React, Electron     |
-| [homepage](https://github.com/Einere/homepage)              | 개인 블로그          | Next.js, Notion API |
+| 프로젝트                                                      | 설명                      | 주요 기술 스택               |
+|-------------------------------------------------------------|--------------------------|--------------------------|
+| [ClipMark](https://github.com/Einere/ClipMark)              | 클리핑 특화 로컬 중심 MD 편집기 | React, Tauri, CodeMirror | 
+| [tomato-mien](https://github.com/Einere/tomato-mien)        | 규칙 기반 알림 데스크탑 앱      | React, Electron          |
+| [homepage](https://github.com/Einere/homepage)              | 개인 블로그                 | Next.js, Notion API      |
 
 
 ## Tools
